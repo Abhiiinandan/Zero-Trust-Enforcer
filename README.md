@@ -15,4 +15,4 @@ This is a Python implementation of a **Policy Enforcement Point (PEP)** based on
    - User: `abhinandan`
    - Device: `DEV-12215656`
    - Location: `Internal Office`
-(this is only an example login to show how it needs every criteria matched and passed to login.)
+   - (this is only an example login to show how it needs every criteria matched and passed to login.)
