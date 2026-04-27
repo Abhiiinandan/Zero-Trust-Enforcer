@@ -28,7 +28,7 @@ def verify_access(username, provided_device_id, location):
 
 # --- REAL-TIME SIMULATION ---
 def main():
-    print("--- Zero Trust Architecture Mini-Project ---")
+    print("--- Zero Trust Architecture ---")
     print("Scenario: User attempting to access Secure Database")
     
     # Input simulation
