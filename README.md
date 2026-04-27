@@ -1,6 +1,6 @@
 # Zero-Trust-Enforcer
 
-# Zero Trust Architecture (ZTA) Mini-Project
+# Zero Trust Architecture (ZTA) 
 This is a Python implementation of a **Policy Enforcement Point (PEP)** based on my Seminar "Zero Trust Architecture in Modern Cybersecurity".
 
 ## Features
